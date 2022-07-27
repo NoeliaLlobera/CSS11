@@ -1,0 +1,22 @@
+td{
+    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+}
+table{
+    border: 3px solid black;
+    border-radius: 20px 20px 0px 0px;
+    padding: 5px;
+    max-width: 800px;
+    width: 90vw;
+    margin: 0px auto;
+}
+[colspan="3"]{
+    background-color: rgb(109, 199, 255);
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+mark{
+    background-color:rgb(109, 199, 255);
+}
